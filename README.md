@@ -112,7 +112,7 @@ Program menangani berbagai jenis error:
 
 ## Author
 
-Ahmad
+A. Issadurrofiq Jaya Utama
 
 ## Lisensi
 
